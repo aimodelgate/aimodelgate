@@ -19,7 +19,11 @@ Your App  ──▸  AISG Gateway  ──▸  Presidio (PII scan)  ──▸  LL
                     │◂── redacted or blocked ──────────────────▸│
                     │◂── clean response ────────────────────────│
 ```
+---
 
+> ☁️ **Prefer managed?** Skip Docker entirely → [aisecuritygateway.ai](https://aisecuritygateway.ai) — 1M free requests, no credit card required.
+
+---
 ---
 
 ## Quickstart
